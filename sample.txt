@@ -1,5 +1,6 @@
 My first line after git class.
 The branched file.
+Check whether the changes are added to branch from this.
 Check whether the changes are added.
 new text.
-b1.
+
